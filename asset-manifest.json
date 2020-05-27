@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio-v1-/static/css/main.6aeafd56.chunk.css",
+    "main.js": "/portfolio-v1-/static/js/main.34ffb7e7.chunk.js",
+    "main.js.map": "/portfolio-v1-/static/js/main.34ffb7e7.chunk.js.map",
+    "runtime-main.js": "/portfolio-v1-/static/js/runtime-main.38e66778.js",
+    "runtime-main.js.map": "/portfolio-v1-/static/js/runtime-main.38e66778.js.map",
+    "static/js/2.a261c1b4.chunk.js": "/portfolio-v1-/static/js/2.a261c1b4.chunk.js",
+    "static/js/2.a261c1b4.chunk.js.map": "/portfolio-v1-/static/js/2.a261c1b4.chunk.js.map",
+    "index.html": "/portfolio-v1-/index.html",
+    "precache-manifest.e6aaca0c87b978bf7781078aba0babe4.js": "/portfolio-v1-/precache-manifest.e6aaca0c87b978bf7781078aba0babe4.js",
+    "service-worker.js": "/portfolio-v1-/service-worker.js",
+    "static/css/main.6aeafd56.chunk.css.map": "/portfolio-v1-/static/css/main.6aeafd56.chunk.css.map",
+    "static/js/2.a261c1b4.chunk.js.LICENSE.txt": "/portfolio-v1-/static/js/2.a261c1b4.chunk.js.LICENSE.txt",
+    "static/media/Restaurant.PNG": "/portfolio-v1-/static/media/Restaurant.dcd12414.PNG",
+    "static/media/computer.png": "/portfolio-v1-/static/media/computer.e74f5aaa.png",
+    "static/media/ham.svg": "/portfolio-v1-/static/media/ham.aeba9664.svg",
+    "static/media/screenshot.png": "/portfolio-v1-/static/media/screenshot.8caaf1d6.png",
+    "static/media/skill.png": "/portfolio-v1-/static/media/skill.761230ef.png",
+    "static/media/you.png": "/portfolio-v1-/static/media/you.311a9224.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38e66778.js",
+    "static/js/2.a261c1b4.chunk.js",
+    "static/css/main.6aeafd56.chunk.css",
+    "static/js/main.34ffb7e7.chunk.js"
+  ]
+}
